@@ -1,6 +1,6 @@
 /* Created by: Zaida Hammel
 * Created on: March
-* This file contains the CSS for index2.html
+* This file contains the CSS for index.html
 */
 
 .dimensions {
@@ -11,6 +11,13 @@
 }
 
 .area {
+  font-size: 1.7rem;
+  padding-left: 5pt;
+  padding-right: 5pt;
+  padding-top: 5pt;
+}
+
+.perimeter {
   font-size: 1.7rem;
   padding-left: 5pt;
   padding-right: 5pt;
